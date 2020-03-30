@@ -1,5 +1,5 @@
-# gestion-stock
-# Project - *Logiciel de gestion pour  l’entreprise Eloim d’auto-parts*
+# management software/gestion-stock
+# Project - *Business management software / Logiciel de gestion pour  l’entreprise Eloim d’auto-parts*
 
 
 
